@@ -22,5 +22,7 @@ pip install git+git://github.com/waspinator/coco.git@2.1.0
 # Usage
 
 The new features in this repo are in openimages_utils. This includes:
+
 sort_openimages_annotations.py - sorts Google OpenImage segmentation masks into a class-based directory structure
+
 openimages_to_coco.py - generates the COCO style annotation json given the set of images and masks
