@@ -60,7 +60,7 @@ def sort_classes(class_descriptions_fn, input_dir, out_dir_base):
 def main():
 
 	if len(sys.argv) != 4:
-		sys.exit("Usage: presort_classes.py <class-descriptions.csv> <input_dir> <output_dir>")
+		sys.exit("Usage: sort_openimages_annotations.py <class-descriptions.csv> <input_dir> <output_dir>")
 
 	class_descriptions_fn = sys.argv[1]
 	input_dir = sys.argv[2]
