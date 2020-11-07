@@ -19,7 +19,7 @@ pip install cython
 pip install git+git://github.com/waspinator/coco.git@2.1.0
 ```
 
-# Usage
+# Google OpenImage Utils
 
 The new features in this repo are in openimages_utils. This includes:
 
